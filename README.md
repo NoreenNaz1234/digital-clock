@@ -9,7 +9,6 @@ Just I get new Date() concept I got all data my knowing this concept
 
 ```
 For example:
-
 ```
 
 ![image](https://user-images.githubusercontent.com/38943389/46259327-78f0a780-c4f1-11e8-85e4-c461fd999ab0.png)
